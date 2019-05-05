@@ -1,3 +1,4 @@
-# JavaPrograms
+# Java  Beginner level programs sample
 
-    In this repository many exercize programs are uploaded for the students to improve their skills in developing java skills
+    In this repository many exercize programs are uploaded for the students to improve their 
+    skills in developing java skills
